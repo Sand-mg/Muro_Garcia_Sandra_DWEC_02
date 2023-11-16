@@ -1,0 +1,15 @@
+{
+    "socio":[
+        {
+        "nombre":"Sandra", 
+        "apellido": "muro",
+        "id": 1
+        },
+        {
+        "nombre":"William", 
+        "apellido": "Sheakspeare",
+        "id": 2
+        }
+    ]
+}
+
